@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SAP Materials Management<br>👯 I’m looking to collaborate on Supply Chain Management<br>🤝 I’m looking for help with to fully be involved in a project<br>🌱 I’m currently learning SAP Technology Consultant<br>💬 Ask me about ERP Enterprise<br>⚡ Fun fact I'm a fitness enthusiast
+🔭 I’m currently working on SAP Materials Management<br>👯 I’m looking to collaborate on Supply Chain Management<br>🤝 I’m looking for help with to fully be involved in a project<br>🌱 I’m currently learning SAP Technology Consultant<br>💬 Ask me about ERP <br>⚡ Fun fact I'm a fitness enthusiast
 
 
 ## 🌐 Socials:
