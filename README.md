@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an SAP Materials Management<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with: Cybersecutity<br>🌱 I’m currently learning SAP Technology Consultant<br>💬 Ask me about Enterprise Resource Planning (ERP) <br>⚡ Fun fact I'm a fitness enthusiast
+🔭 I’m currently working on SAP Materials Management<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with: Cybersecutity<br>🌱 I’m currently learning SAP Technology Consultant<br>💬 Ask me about Enterprise Resource Planning (ERP) <br>⚡ Fun fact I'm a fitness enthusiast
 
 
 ## 🌐 Socials:
